@@ -1,3 +1,16 @@
+# Node Js Credentials Provider Impl
+
+```
+cd node_js
+npm i
+npm run dev
+```
+
+Server Run on port [localhost:3002](http://localhost:3002)
+
+File Insomnia in 
+[Insomnia Json File](https://github.com/leandrovitto/next-js-e-auth-js-demo-project/blob/node_js_credentials/node_js/insomnia.json)
+
 # Next.js Auth Complete Flow
 
 --- Link article e video TO BE DONE
