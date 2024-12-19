@@ -1,6 +1,8 @@
 # Next.js Auth Complete Flow
 
---- Link article e video TO BE DONE
+[Link all'articolo completo e Video](https://rebrand.ly/article_899oze4)
+
+[![image](image.jpeg)](https://rebrand.ly/article_899oze4)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It includes authentication using NextAuth.js and role-based access control.
 
